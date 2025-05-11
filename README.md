@@ -146,7 +146,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Fonts from Google Fonts
 
 ## Contact 📧
-
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
-
-Project Link: [https://github.com/yourusername/meme-generator](https://github.com/yourusername/meme-generator)
+Project Link: [https://github.com/Chinmay18-c/meme-generator](https://github.com/Chinmay18-c/meme-generator)
